@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid black;
+}
+#shark {
+  display: none;
+}
+#lighthouse {
+  display: none;
+}
